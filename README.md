@@ -49,8 +49,8 @@
 <sub>信息采集 · 视频转录 · 结构化笔记</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://companion.aitongban.cloud"><img src="assets/ai-companion.webp" width="100%" alt="AI 童伴：从孩子的问题开始交流"></a>
-<h3><a href="https://companion.aitongban.cloud">AI 童伴</a></h3>
+<a href="https://aitongban.cloud/"><img src="assets/ai-companion.webp" width="100%" alt="AI 童伴：从孩子的问题开始交流"></a>
+<h3><a href="https://aitongban.cloud/">AI 童伴</a></h3>
 <p><strong>从孩子的问题，开始一次交流。</strong></p>
 <p>围绕成长对话与家长看板，探索 AI 在教育陪伴中的应用。</p>
 <sub>AI 教育 · 问题探索 · 家长参与</sub>
