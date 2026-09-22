@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aitongban.cloud/"><img src="assets/moonlit-avatar.png" width="104" alt="月明水清深的月牙头像"></a>
+  <a href="https://aitongban.cloud/"><img src="assets/moonlit-avatar-transparent.png" width="104" alt="月明水清深的月牙头像"></a>
 </p>
 
 <h1 align="center">月明水清深 · MoonlitClear</h1>
