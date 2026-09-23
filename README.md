@@ -69,7 +69,7 @@
 | 找选题、做研究 | [选题雷达](https://github.com/zzyong24/moonlit-topic-radar) · [选题引擎](https://github.com/zzyong24/moonlit-topic-engine) · [对标研究](https://github.com/zzyong24/moonlit-benchmark-research) |
 | 把想法写清楚 | [口述转大纲](https://github.com/zzyong24/moonlit-oral-to-outline) · [去 AI 味](https://github.com/zzyong24/moonlit-de-ai-perception) · [公众号文章](https://github.com/zzyong24/moonlit-wechat-article) |
 | 把机制讲明白 | [解释配图](https://github.com/zzyong24/moonlit-material-illustration) · [宇航员插画](https://github.com/zzyong24/moonlit-astronaut-illustration) · [解说画布](https://github.com/zzyong24/moonlit-explainer-canvas) |
-| 制作视频与平台内容 | [视频脚本](https://github.com/zzyong24/moonlit-video-script) · [HTML 视频](https://github.com/zzyong24/moonlit-html-video) · [小红书图文](https://github.com/zzyong24/moonlit-xiaohongshu) |
+| 制作视频与平台内容 | [视频脚本](https://github.com/zzyong24/moonlit-video-script) · [HTML 视频](https://github.com/zzyong24/moonlit-html-video) · [小红书图文](https://github.com/zzyong24/moonlit-xiaohongshu) · [抖音转写](https://github.com/zzyong24/moonlit-douyin-transcribe) |
 | 沉淀自己的方法 | [Skill 创建与维护](https://github.com/zzyong24/moonlit-skill-creator) |
 
 ## 开源与实践
