@@ -1,7 +1,8 @@
 <a href="https://aitongban.cloud/"><img src="assets/banner.webp" width="100%" alt="朱志勇 · 月明Verse：让 AI 落地，从能用到可控。"></a>
 
 <p align="center">
-  <a href="https://aitongban.cloud/"><b>官网</b></a> ·
+  <a href="https://creatoros.aitongban.cloud/"><b>CreatorOS</b></a> ·
+  <a href="https://aitongban.cloud/">个人官网</a> ·
   <a href="https://aitongban.cloud/links#offers">预约咨询</a> ·
   <a href="#产品">产品</a> ·
   <a href="#开源">开源</a> ·
@@ -11,18 +12,34 @@
 
 我是**朱志勇**，网上叫**月明Verse**。全栈工程师，AI 落地陪跑营主理人。5 年以上 AI 工程经验，自研 AIES 协作开发框架，已在 7 个项目落地。我帮开发者和小团队，把 AI 真正用进开发、产品与内容。
 
+## 首推产品 · CreatorOS
+
+**把灵感做成作品，把经验留给下一次创作。**
+
+我正在重点打造 **[CreatorOS](https://github.com/zzyong24/Thirdspace-creator)**：面向中文创作者的 AI 内容工作台。账号定位、选题、脚本、文章、图文、视频制作、发布管理与运营复盘，在同一个本机工作台里衔接。
+
+<a href="https://creatoros.aitongban.cloud/#demo"><img src="assets/creatoros.webp" width="100%" alt="CreatorOS 多平台创作者总览真实界面：账号管理、已采集作品与运营数据；点击观看产品演示"></a>
+
+**在售 · macOS / Windows · 本地数据优先**
+
+[观看 87 秒产品演示](https://creatoros.aitongban.cloud/#demo) · [了解产品](https://creatoros.aitongban.cloud/) · [购买与下载](https://buy.aitongban.cloud/creatoros/) · [查看 GitHub 仓库](https://github.com/zzyong24/Thirdspace-creator)
+
 ## 我能帮你做什么
 
 | | 能力 | 内容 | 案例 |
 | :-- | :-- | :-- | :-- |
 | 01 | **AI 原生开发** | 规范与上下文工程、多 Agent 分工、测试验证与质量门禁 | [3 小时交付 10853 行生产代码](https://aitongban.cloud/blog/manage-ai-like-new-employee) |
-| 02 | **产品从 0 到 1** | 方向与商业模式、MVP 与技术选型、上线收款与首批用户 | [媒措 Moving](#产品) 已在售 |
+| 02 | **产品从 0 到 1** | 方向与商业模式、MVP 与技术选型、上线收款与首批用户 | [CreatorOS](https://creatoros.aitongban.cloud/) 已在售 |
 | 03 | **AI 助理与知识系统** | 知识库架构、MCP 工具与自动化、消息与工作流闭环 | [用 40 个 MCP 工具搭出知识操作系统](https://aitongban.cloud/blog/tool-dirtywork-ai-intelligent) |
 | 04 | **AI 内容生产** | 选题与脚本系统、口播剪辑自动化、数据复盘 | [Moonlit Skills](#moonlit-skills)：27 个内容生产 Skill |
 
 **合作方式**：一对一咨询 ¥399 / 小时 · AI 落地陪跑（按项目）· 知识星球长期交流 → [查看并预约](https://aitongban.cloud/links#offers)
 
 ## 产品
+
+**首推：[CreatorOS](https://creatoros.aitongban.cloud/) · AI 内容创作与多平台运营。** 上方可查看真实界面与演示。
+
+### 媒措 Moving · 更多产品
 
 <a href="https://aitongban.cloud/projects/moving"><img src="assets/moving.webp" width="100%" alt="媒措 Moving 客户端真实界面"></a>
 
@@ -31,7 +48,7 @@
 
 | 产品 | 状态 | 一句话 |
 | :-- | :-- | :-- |
-| [CreatorOS](https://creatoros.aitongban.cloud) | Mac 验收中 | 住在本机的抖音编导系统：选题、脚本、发布到数据复盘，一条线跑完。 |
+| [CreatorOS](https://creatoros.aitongban.cloud/) | 在售 · macOS / Windows · 首推 | AI 内容工作台：定位、选题、多形式创作、发布管理与数据复盘。 |
 | [AITerm](https://github.com/zzyong24/AITerm) | 开源 · 团队共建 | 终端、编辑器、Git 整合进一个窗口，多项目并行开发。 |
 | [ThirdSpace](https://github.com/zzyong24/thirdspace-vault-template) | 开源模板 | Agent 原生的知识库：资料按规则自动归位，任何 AI Agent 都能接手整理。 |
 | [Msg-collect](https://msgcollect.aitongban.cloud) | 可用 · 本地部署 | 视频、网页、PDF 转写和提取，交给你自己的模型总结，结果留在本地。 |
